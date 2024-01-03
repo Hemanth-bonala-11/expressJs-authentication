@@ -3,7 +3,7 @@ Input formats for all 5 api's
 --> 1) /api/login ==><br/>
   Input : <br/>
         email: email <br/>
-        pwd: <assword <br/>
+        pwd: password <br/>
    output: <br/>
         access_token: jwt-token <br/>
         (save this token for further use) <br/>
